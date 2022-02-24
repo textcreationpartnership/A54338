@@ -1,0 +1,664 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exposition upon the first chapter of the Song of Songs handled by way of question and answer for the information of the weakest understanding / by Samuel Pack.</title>
+            <author>Pack, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54338</idno>
+            <idno type="STC">Wing P149</idno>
+            <idno type="STC">ESTC R26174</idno>
+            <idno type="EEBO-CITATION">09378668</idno>
+            <idno type="OCLC">ocm 09378668</idno>
+            <idno type="VID">42901</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54338)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42901)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1313:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exposition upon the first chapter of the Song of Songs handled by way of question and answer for the information of the weakest understanding / by Samuel Pack.</title>
+                  <author>Pack, Samuel.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Song of Solomon I --  Commentaries.</term>
+               <term>Bible. --  O.T. --  Song of Solomon I --  Criticism, interpretation, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42901:1" rendition="simple:additions"/>
+            <pb facs="tcp:42901:1" rendition="simple:additions"/>
+            <p>AN EXPOSITION Upon the Firſt Chapter of the Song of Songs, Handled by way of <hi>Queſtion and Anſwer,</hi> FOR THE Information of the weakeſt Underſtanding.</p>
+            <p>By <hi>SAM<g ref="char:V">Ʋ</g>EL PACK.</hi>
+            </p>
+            <q>
+               <hi>The Secrets of the Lord are with his Fearers, and he will ſhew them his Covenant.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, in the Year MDCXCI.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:42901:2"/>
+            <pb facs="tcp:42901:2"/>
+            <head>To all my Dearly Beloved Friends, the Inhabitants of <hi>Ramſgate</hi> (in the Iſle of <hi>Tha<g ref="char:EOLhyphen"/>net</hi> in <hi>Kent</hi>) and all the adja<g ref="char:EOLhyphen"/>cent Parts, who are conſtant Attenders upon my Miniſtry; Grace and Peace be multiplied.</head>
+            <opener>
+               <salute>My Dear Friends,</salute>
+            </opener>
+            <p>YO<g ref="char:V">Ʋ</g> may remember, that ſome Years ago (which was I think the ſecond Summer af<g ref="char:EOLhyphen"/>ter the Providence of God had caſt me a<g ref="char:EOLhyphen"/>mong you) I did inſiſt Copiouſly upon this Subject, which I have now preſented you with a Brevi<g ref="char:EOLhyphen"/>ate of; and foraſmuch as the Kindneſs I then received from you, gave me cauſe to hope, that my poor Labours found acceptance with you, I took encourage<g ref="char:EOLhyphen"/>ment to preſent you with this Paper, in order to the helping of your Memories with ſome Hints of thoſe Truths, which ſome of you have acknowledged to have been conducible to the Illumination of your <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtandings, in that great Doctrin of Juſtification, by
+<pb facs="tcp:42901:3"/>the Imputation of Chriſt's Righteouſneſs; and it is the earneſt deſire of my Soul, that the Lord will be pleaſed ſo to attend my poor Endeavours (in this Work) with the powerful Aſſiſtance of his Spirit, that they may conduce to the Mortification of your Sins here, and the Glorification of your Souls here<g ref="char:EOLhyphen"/>after; for without Holineſs in this VVorld, you muſt never expect Happineſs in the VVorld to come; which Internal and Eternal Happineſs of yours, is the earneſt deſire of him who is,</p>
+            <closer>
+               <signed>Your Servant for Jeſus ſake, SAMUEL PACK.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="exposition">
+            <pb facs="tcp:42901:3"/>
+            <head>AN EXPOSITION Upon the Firſt Chapter of the Song of Songs.</head>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <div type="part">
+               <head>
+                  <hi>Verſe</hi> 1. A Song of Songs becauſe of Solomon.</head>
+               <p>Queſtion 1. <hi>Anſwer. WHY is this Book call'd a Song?</hi> Becauſe it lays a ſolid Founda<g ref="char:EOLhyphen"/>tion for a Beleiver's Spiritual Joy, as it reveals unto us the unconceiveable Love of Chriſt who is the Son of God's Love,<note place="margin">Mat 3.17. Col. 2 9. Col. 1.9. Rom. 9.5.</note> and in whom dwells the fulneſs of the God-head bodily, and in whom it pleaſed the Father that in him ſhould all fulneſs dwell, and who is God over all, bleſſed for ever. Amen.</p>
+               <p>Queſt. 2. <hi>Why is this Song of</hi> Solomon <hi>call'd a Song of Songs?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe it is the chief and principal Song,<note place="margin">Eccl. 7.5.</note> not only in oppoſition to all wicked and filthy Songs which <hi>Solomon</hi> call'd <hi>Songs of Fools;</hi> but alſo in Competition with many Songs of his own making, which the Spirit of God did not think meet to tranſmit to Poſterity as Canonical or a Rule of Faith.</p>
+               <pb facs="tcp:42901:4"/>
+               <p> Queſt. 3.<note place="margin">
+                     <hi>Ver.</hi> 1.</note> 
+                  <hi>What other Reaſon may be given why this Song of</hi> Solomon <hi>is call'd a Song of Songs?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe it doth in a moſt excellent manner ſet forth the excellent perfections of Chriſt, who is <hi>King of Kings, and Lord of Lords;</hi> on which account it is deſervedly entitu<g ref="char:EOLhyphen"/>led, <hi>A Song of Songs,</hi> Rev. 17.14.19.16.</p>
+               <p>Queſt. 4. <hi>What other Reaſon may be given why this Song is call'd a Song of Songs?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe God by ſtamping ſuch glory upon the Front of this Book, would for ever ſilence, or leave inexcuſable, thoſe Yokeleſs and black-mouth'd Sons of <hi>Felial,</hi> that have got ſuch a ſufficient ſtock of Confidence as to ſay, That this Book was only an Amourous Diſcourſe that paſt between <hi>Solomon</hi> and <hi>Pharaoh</hi>'s Daughter.</p>
+               <p>Queſt. 5. <hi>Why do you Tranſlate that</hi> becauſe, <hi>which we have Tranſlated</hi> which?</p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is as often read a cauſative Particle as <hi>which,</hi> as in <hi>Iſai.</hi> 53.12. and in a hundred places more.</p>
+               <p>Queſt. 6. <hi>What other reaſon can you give thereof?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe of the ſubſequent Prepoſition <hi>of,</hi> for it would be nonſenſe to read the words thus, <hi>A Song of Songs which of Solomon;</hi> but it is good ſenſe to read the words thus, <hi>A Song of Songs becauſe of Solomon;</hi> that is, it is a chief and principal Song, becauſe it ſets forth the tran<g ref="char:EOLhyphen"/>ſcendent excellency of Chriſt, who is the chief and principal good.</p>
+               <p>Queſt. 7. <hi>Why do you Tranſlate it</hi> a Song, <hi>which we have Tranſlated</hi> the Song?</p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe there is no Emphaticum in the Hebrew, and we ought not to add to the Word of God.</p>
+               <p>Queſt. 8. <hi>Why do you read</hi> of Solomon, <hi>which</hi> of <hi>is not in our Tranſlation?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe the Spirit of God has put in <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and we ought not to leave it out.</p>
+               <p>Queſt. 9. <hi>Who is here intended by</hi> Solomon?</p>
+               <p>
+                  <hi>Anſw.</hi> The Lord Chriſt, of whom <hi>Solomon</hi> was a glorious Type,<note place="margin">1 Kings 4.29, 30. Col. 2.3. Prov. 8.14. Iſai. 40.28.</note> not only in reſpect of his great wiſdom, but as he was appointed by God to build the Temple; and ſo Chriſt was appointed by God to build his Church, of which <hi>Solomon</hi>'s Temple was a Type.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:42901:4"/>
+               <head>
+                  <hi>Verſe</hi> 2. Let him kiſs me with the kiſſes of his mouth: for thy love is better than wine.</head>
+               <p>Queſt. 10. <hi>Who is it that is ſpeaking thoſe words?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Spouſe.</p>
+               <p>Queſt. 11. <hi>What does the Spouſe mean by let him kiſs me?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> She is thereby manifeſting her ſtrong deſires after the manifeſtations of the love of Chriſt her Spiritual Husband.</p>
+               <p>Queſt. 12. <hi>Why does the Spouſe of Chriſt expreſs his love by a word of the plural number</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>Anſw.</hi> To ſhew that Holy greedineſs that is in a gracious Soul after an abundance of the love of Chriſt, as being ex<g ref="char:EOLhyphen"/>poſed to abundance of diſcouragements.</p>
+               <p>Queſt. 13. <hi>Why is the word</hi> better <hi>a word of the plural num<g ref="char:EOLhyphen"/>ber,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> goodneſſes?</p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe of that abundance of goodneſs that is in the love of Chriſt, as it makes all things, even afflictions themſelves, to conduce to our good.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Verſe</hi> 3. Becauſe of the ſavour of thy good oint<g ref="char:EOLhyphen"/>ments, thy name is as ointment poured forth; therefore do the virgins love thee.</head>
+               <p>Queſt. 14. <hi>Whoſe words are thoſe?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The words of the Spouſe or Bride of Chriſt, in commendation of the Graces of his Spirit.</p>
+               <p>Queſt. 15. <hi>What is meant by the name of Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> All his perſonal Excellencies by which he is pleaſed to manifeſt himſelf to his Saints.</p>
+               <p>Queſt. 16. <hi>What is meant by the name of Chriſt being like Ointment?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe the perſonal Excellency of Chriſt, revealed to a gracious Soul, has the ſame comforting and cleanſing power upon the Heart, as Oyl has upon a wounded Body; and therefore Chriſt was anointed to heal the broken in Heart.</p>
+               <p>Queſt. 17. <hi>Why is this Oyl or Ointment expreſs'd by a word of the plural number</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>Anſw.</hi> Not only becauſe of that fulneſs of Grace that is in Chriſt, but alſo becauſe of that variety of comforting and purging Grace that is in him.</p>
+               <pb n="4" facs="tcp:42901:5"/>
+               <p> Queſt. 18.<note place="margin">
+                     <hi>Ver.</hi> 3.</note> 
+                  <hi>What is meant by the ſavour of this good Ointment?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The experimental feeling thereof in our Hearts.</p>
+               <p>Queſt. 19. <hi>Who are meant by thoſe Virgins?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> True Believers, which do not defile themſelves with the love of ſin.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Verſe</hi> 4. Draw me, we will run after thee: the king brought me into his chambers: we will be glad and rejoyce in thee, we will remember thy love more than wine: the upright love thee.</head>
+               <p>Queſt. 20. <hi>Whoſe words are thoſe?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> They are the words of the Spouſe.</p>
+               <p>Queſt. 21. <hi>What does the Spouſe mean by drawing?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> She deſires that God would by the power of his Spirit ſo bleſs all means that he uſeth with her, to draw her nearer to himſelf, that ſhe might experience ſweet Commu<g ref="char:EOLhyphen"/>nion with him in duty.</p>
+               <p>Queſt. 22. <hi>What does the Spouſe mean by ſaying, We will run af<g ref="char:EOLhyphen"/>ter thee?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> It is as if the Spouſe had ſaid, Lord, if thou wilt, draw me nearer to thy ſelf in duty, I will endeavour to draw others along with me.</p>
+               <p>Queſt. 23. <hi>What is here meant by running after God?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> A conſtant walking in the ways of God; that as the wicked deſire to follow the Beaſt and their own beaſtly Luſts, ſo the godly deſire with <hi>Caleb,</hi> to follow the Lord fully.</p>
+               <p>Queſt. 24. <hi>What is meant by running?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> To ſhew with what labour and diligence we ought to follow God in the way of his Commandments. Chriſtian work is hard work, and therefore is ſometimes expreſſed by ſtriving and fighting, and here by running.</p>
+               <p>Queſt. 25. <hi>Who is here meant by this King?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Chriſt himſelf, the King of Saints and Lord of Glory.</p>
+               <p>Queſt. 26. <hi>What is meant by the King's Chambers?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The merits of the Death of Chriſt, together with all the advantages we gain by his Mediatorſhip; and for as much as the Hebrew word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſignifies an inner Bed-Cham<g ref="char:EOLhyphen"/>ber,<note place="margin">1 Kings 22.25.</note> which is a place of ſecrecy, reſt and ſafety, I do conclude
+<pb n="5" facs="tcp:42901:5"/>that the Spouſe is here ſpeaking of the great delight ſhe did experience in thoſe Chambers of Goſpel-Myſteries, wherein the Lord Jeſus Chriſt reveals his everlaſting love to a graci<g ref="char:EOLhyphen"/>ous Soul, whereby it is filled with Joy unſpeakable and full of Glory; and therefore ſays the Spouſe in the next words, We will be glad and rejoyce in thee, while Carnal Profeſſors take up with the Hiſtory of the Goſpel,<note place="margin">Mat. 13.14. Eph. 3.4. Col 1.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>6, 27.</note> which we may compare to the Hall, into which any may come that have occaſion to come to the Houſe: A gracious Soul is by the Spirit of the living God led into the Myſtery of the Goſpel, which we may compare to the inner-Chamber into which none do enter but ſpecial Friends.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Verſe</hi> 5. I am black, but comply (O ye daughters of Jeruſalem) as the tents of Kedar, as the curtains of Solomon.</head>
+               <p>As in the former Verſe we may behold the Spouſe in the loving embracings of her Beloved, ſolacing of her ſelf in the Fruition of thoſe inexplicable Delights, which are the bleſſed products of her cloſe Communion with her Spiritual Husband in his Spiritual Chambers, in which ſhe did delight and re<g ref="char:EOLhyphen"/>joyce, and whoſe love ſhe reſolved to remember more than Wine; ſo we have in this Verſe the Spouſe under diſmal Cir<g ref="char:EOLhyphen"/>cumſtances, ſitting, as it were, with her blubbered Cheeks, her Eyes full of Tears, and her Heart full of ſorrow; being un<g ref="char:EOLhyphen"/>der the Tyrannical Power of her Internal, External, and In<g ref="char:EOLhyphen"/>fernal Enemies, who are all combining together to make her Miſerable: Such is Satan's enmity againſt a Gracious Soul, that he will not be wanting to give them a ſufficient taſte of his Malignant Emulation of their happineſs, ſo far as to let them know that there is nothing but mutability wrote upon the choiceſt of all created enjoyments, of all which we have a hint in this Verſe.</p>
+               <p>Queſt. 27. <hi>What does the Spouſe mean by her being as black as the Tents of</hi> Kedar?</p>
+               <p>
+                  <hi>Anſw.</hi> As the Off ſpring of <hi>Kedar</hi> who was one of the Sons of <hi>Iſhmael</hi> was of barbarous black Conditions,<note place="margin">Pſal. 120.5, 6.</note> ſo it is reported that they lived in Tents covered with black Hair-Cloth,
+<pb facs="tcp:42901:6"/>to which the Spouſe compared her ſelf,<note place="margin">
+                     <hi>Ver.</hi> 5.</note> with reſpect to her ſins and ſufferings.</p>
+               <p>Queſt. 28. <hi>What does the Spouſe mean by her being as comply as the Curtains of</hi> Solomon?</p>
+               <p>
+                  <hi>Anſw.</hi> The Spouſe does thereby ſignifie, That however ſhe is black and deformed, as in her ſelf, yet ſhe is beautiful and comply in Chriſt, as having his Righteouſneſs imputed to her.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Verſe 6.</hi> Look not upon me, becauſe I am black, becauſe the ſun hath looked upon me: my mothers children were angry with me, they made me the keeper of the vineyards; but my own vineyard have I not kept.</head>
+               <p>Queſt. 29. <hi>What blackneſs is it the Spouſe is here bemoaning of her ſelf under?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> As the principal radicals are here doubled <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> it does denote the extream blackneſs of the Spouſe, both with reſpect to her ſins and ſufferings.</p>
+               <p>Queſt. 30. <hi>What does the Spouſe mean by the Sun looking upon her?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> By that is meant the Sun of Perſecution, and ſo it is taken <hi>Mat.</hi> 13.</p>
+               <p>Queſt. 31. <hi>What does the Spouſe mean by the anger of her Mo<g ref="char:EOLhyphen"/>thers Children?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Perſecuting rage of thoſe that pretended to be Sons of the Church, as they did own ſome Fundamental Truths, but ſhe does not call them her Fathers Children or Sons <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, becauſe thoſe that are indeed Children of God dare not be perſecutors of the Saints.</p>
+               <p>Queſt. 32. <hi>What does the Spouſe mean by thoſe Vineyards which her angry Perſecutors made her a keeper of?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Thoſe falſe Churches which for fear of Perſecution the Spouſe did joyn her ſelf with; for Churches are often ex<g ref="char:EOLhyphen"/>preſſed by Vineyards, whether they are true or falſe.</p>
+               <p>Queſt. 33. <hi>What does the Spouſe mean by her not keeping her own Vineyard?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Her forſaking of that true Congregated Church to which ſhe ſtood related.</p>
+               <pb n="7" facs="tcp:42901:6"/>
+               <p> Queſt. 34.<note place="margin">
+                     <hi>Ver.</hi> 6.</note> 
+                  <hi>Were there any congregated Churches under Old Teſtament Adminiſtra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ions?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> No: but though this Book was wrote by <hi>Solomon</hi> when God had only his National Jewiſh Church, yet the matter contained therein relates to Goſpel Adminiſtra<g ref="char:EOLhyphen"/>tions.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Verſe</hi> 7. Tell me (O thou whom my ſoul loveth) where thou feedeſt, where thou cauſeſt thy flocks to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt at noon: for why ſhould I be as one that turn<g ref="char:EOLhyphen"/>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> aſide to the flocks of thy companions?</head>
+               <p>Queſt. 35. <hi>Whoſe words are thoſe?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The words of the Spouſe to Chriſt.</p>
+               <p>Queſt. 36. <hi>Why does the Spouſe ſeem to boaſt of her love to Chriſt after her backſliding from him?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> If we read the words as they are wrote in the He<g ref="char:EOLhyphen"/>brew line, they run thus, <hi>Cauſe to declare to me, O thou who loveſt my ſoul:</hi> as if the Spouſe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> had ſaid, Lord, while I can take no comfort in my love to thee, becauſe of the mutability thereof, of which I have given a ſad Demonſtration in my backſlidings from thee, yet with this I comfort my ſelf, That though my love has appeared to be mutable to thee, yet thy love is immutable to me: But if we read the words as they are Tranſlated, then they denote thus much, as if the Spouſe had ſaid, Lord, although I have, through human infirmity, for fear of Perſecution, let falſe Churches have my Body, yet I am no backſlider in Heart, <hi>Prov.</hi> 14.14. The Enemy had my Body, and too much of that too, but thou haſt my Soul; thou knoweſt that my Soul loves thee, which love of mine I deſire to manifeſt by my returning a<g ref="char:EOLhyphen"/>gain to my former Station, and by my conſtant perſiſting in the good ways of God, whatever I ſuffer from my Mothers Children.</p>
+               <p>Queſt. 37. <hi>What does the Spouſe mean by the Flocks of Chriſt reſting at Noon?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Their quiet and peaceable frames of Spirit in the heat and noon-time of Perſecution.</p>
+               <pb n="8" facs="tcp:42901:7"/>
+               <p> Queſt. 38.<note place="margin">
+                     <hi>Ver.</hi> 7.</note> 
+                  <hi>Who are thoſe that the Spouſe calls the Compani<g ref="char:EOLhyphen"/>ons of Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> They are the Godly Paſtors of thoſe Flocks which the Spouſe is enquiring after Communion with.</p>
+               <p>Queſt 39. <hi>But for as much as thoſe Companions are generally underſtood of Hereticks, I deſire to know the reaſon of your contra<g ref="char:EOLhyphen"/>ry Judgment?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 1. Becauſe God does never in his Word call Here<g ref="char:EOLhyphen"/>ticks his Companions 2. Becauſe the Hebrew word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> does denote God's joyned ones,<note place="margin">1 Cor. 6 17.</note> and he that is joynen to the Lord is one Spirit;<note place="margin">Hoſ. 4.17.</note> and the word is uſed in the ſingular to denote that oneneſs that is between the wicked and their Luſts.</p>
+               <p>Queſt. 40. <hi>But if thoſe Companions are Godly Paſtors, why does the Spouſe ſay,</hi> Why ſhould I be as one that turneth aſide to the Flocks of thy Companions?</p>
+               <p>
+                  <hi>Anſw.</hi> This laſt whole ſentence (except the laſt word) has no footing in the Hebrew, which reads the words thus, <hi>I will as, or like a covering upon the Flocks of thy Companions;</hi> and the leaving out of the Verb <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which is the Indicative Mood, is that which is the ground of this Miſtake; and this word and no other, is uſed throughout all the Old Teſtament; for <hi>I will be,</hi> except it be when <hi>I will be</hi> has a converſive <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ſo that if we read <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> for <hi>I will be</hi> (which is always ſo read) then the words as they are uſually taken run thus, <hi>Tell me (O thou whom my ſoul loveth) where thou feedeſt, where thou cauſeſt thy flocks to reſt at noon; for I will be as one that turneth aſide to the flocks of Hereticks.</hi> I might have given another reaſon why thoſe Companions cannot be underſtood of Hereticks, and that is, becauſe the Spouſe reſolves to be a covering to them which ſhe would not be to Hereticks.</p>
+               <p>Queſt. 41. <hi>What does the Spouſe mean by thoſe words,</hi> I will be as a covering?</p>
+               <p>
+                  <hi>Anſw.</hi> The Hebrew word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> does denote a Glorious covering,<note place="margin">Iſai. 61.3.</note> and is uſed for a Garment of Praiſe, (but is never uſed for a Whores Vail, as ſome think) and the ſubſtance of that which I ſuppoſe is contained in the words, is this, That as the Spouſe had by her backſliding from God diſho<g ref="char:EOLhyphen"/>noured
+<pb n="9" facs="tcp:42901:7"/>the Goſpel, and weakned the Hands and Hearts of the Faithful, ſo now ſhe does reſolve by her Holy humble walking before God, to adorn the Goſpel as much as ever ſhe had defaced it; and that ſhe would joyn unto her holy and cloſe walking with God ſuch a degree of courage and magnanimity of Soul, as that thereby ſhe might be a means to encourage thoſe in the ways of God, that had been diſcouraged by her former backſliding Example.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Verſe</hi> 8. If thou knoweſt not (O thou faireſt among women) go thy way forth by the foot<g ref="char:EOLhyphen"/>ſteps of the flock, and feed thy kids by the ſhep<g ref="char:EOLhyphen"/>herds tents.</head>
+               <p>Queſt. 42. <hi>Whoſe words are thoſe?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> They are the words of Chriſt to the Spouſe after her backſliding from God.</p>
+               <p>Queſt. 43. <hi>Why does Chriſt call the Spouſe the faireſt among Women, who by her backſliding had made her as black as the Tents of</hi> Kedar?</p>
+               <p>
+                  <hi>Anſw.</hi> To ſhew that he had pardoned all her former backſlidings, and alſo to encourage us to confeſs and forſake all our ſins as the Spouſe did, and then we ſhall not need to fear but we ſhall find mercy, though not for ſo doing, yet in ſo doing.</p>
+               <p>Queſt. 44. <hi>What Flocks are they that Chriſt would have his Spouſe go by the footſteps of?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Flocks of thoſe Godly Paſtors before men<g ref="char:EOLhyphen"/>tioned.</p>
+               <p>Queſt. 45. <hi>What is meant by the footſteps of the Flocks?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> That is, to follow the Examples of thoſe that have through Faith and Patience inherited the Promiſes; as if Chriſt had ſaid, O my Spouſe, as thou haſt been at a great loſs in thy Spirits by imitating the wicked, and haſt joyned thy ſelf with them in their worſhip, ſo now if thou haſt a deſire to be acquainted with the form of my Houſe, then be ſure to tread in the ſteps of
+<pb facs="tcp:42901:8"/>thoſe that are the moſt Holy in their Lives,<note place="margin">
+                     <hi>Ver.</hi> 8.</note> and the ſoundeſt in their Judgment.</p>
+               <p>Queſt. 46. <hi>What is meant by young Kids?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Young Saints, that the Spouſe by her Godly Example and Admonition had been inſtrumental to Con<g ref="char:EOLhyphen"/>vert.</p>
+               <p>Queſt. 47. <hi>What is meant by the Spouſe feeding of her Kids?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The readineſs of the Spouſe to nouriſh the Faith and Hope of young Saints in God, by im<g ref="char:EOLhyphen"/>parting to them the experiences ſhe had of the pardon<g ref="char:EOLhyphen"/>ing and comforting Grace of God to her Soul after her fall.</p>
+               <p>Queſt. 48. <hi>Why are young Saints call'd Kids?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe that as a Kid is a young Goat, ſo God is pleaſed thereby to let us know that we are by Na<g ref="char:EOLhyphen"/>ture ſuch Goats, as deſerve to be at the laſt day ſet on the left-hand of Chriſt, and to paſs under that dread<g ref="char:EOLhyphen"/>ful ſentence, <hi>Depart from me, ye curſed, into everlaſting fire.</hi>
+               </p>
+               <p>Queſt. 49. <hi>VVho are interded by thoſe Shepherds?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Thoſe Godly Paſtors before mentioned.</p>
+               <p>Queſt. 50. <hi>VVhat is meant by the Shepherds Tents?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Divine Perfections of God, and his graci<g ref="char:EOLhyphen"/>ous Promiſes of Protecting, Directing and Comforting Grace, for the ſupporting of his Miniſters in the greateſt of dangers, and in the worſt of times.</p>
+               <p>Queſt. 51. <hi>Is there not a word in the Hebrew</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>which is twice left out?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Yea: And whereas Chriſt ſays, <hi>If thou knoweſt not for thy ſelf;</hi> his meaning is, <hi>If thou knoweſt not for thy own good:</hi> 
+                  <note place="margin">Job 35.6, 7.</note> as if Chriſt had ſaid, If thou art igno<g ref="char:EOLhyphen"/>rant of thy duty, the damage will be to thy ſelf; and if thou keepeſt cloſe to thy duty, the advantage will be to thy ſelf; for Man cannot be profitable unto God, as he that is wiſe may be profitable to himſelf.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:42901:8"/>
+               <head>
+                  <hi>Verſe</hi> 9. I have compared thee, O my love, to a company of horſes in Pharaohs chariots.</head>
+               <p>Queſt. 52. <hi>Why does Chriſt compare his Spouſe to a company of Horſes in</hi> Pharaoh<hi>'s Chariots?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe of that Spiritual courage with which the Heart of the Spouſe was fill'd after her cowardly forſaking of God;<note place="margin">Job 37. <hi>from</hi> 19. <hi>to</hi> 25.</note> for of all Beaſts there is no Creature ſo couragious and fit for War as a Horſe; and of all Horſes there are none ſo good as <hi>Eaſt</hi>-Country Horſes; and of all <hi>Eaſt</hi> Country Horſes none ſo good as <hi>Aegyptian</hi> Horſes; and of all <hi>Ae<g ref="char:EOLhyphen"/>gyptian</hi> Horſes none ſo good as thoſe in <hi>Pharaoh</hi>'s Chariots:<note place="margin">Ezek. 17.15. 1 Kings 10.28.</note> and therefore, as <hi>Peter</hi> did abound in courage, after his cowardly fall, ſo Chriſt ſeeing the ſame Spirit in the Spouſe, <hi>his goodly houſe in the battel,</hi> who had arrived unto freſh cou<g ref="char:EOLhyphen"/>rage, in her Spiritual warfare, againſt the Fleſh, the World,<note place="margin">Zech. 10.3.</note> and the Devil, is pleaſed to compare her to a company of Horſes in <hi>Pharaoh</hi>'s Chariots.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Verſe</hi> 10. Thy cheeks are comly with rows, thy neck with chains.</head>
+               <p>Queſt. 53. <hi>What is meant by thoſe rows?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> As Chriſt in the former Verſe had compared his Spouſe to a ſtately War-horſe; ſo in this Verſe we may ſee how he manages his <hi>goodly horſe in the battel,</hi> and that is by his holy righteous Laws, which are Bridles in the Jaws of his People; for as War horſes would be ungovernable and un<g ref="char:EOLhyphen"/>ſerviceable to their Riders without Bridles to order their Mo<g ref="char:EOLhyphen"/>tion, ſo the Saints are guided by the Laws of God put into their hearts, whereby God makes them ſerviceable for the treading down of his and their Spiritual Enemies, <hi>viz.</hi> The Fleſh, the World, and the Devil; and ſuch is the corrupti<g ref="char:EOLhyphen"/>on of Nature that is in the beſt of Men, that they need the Bridle of God's Law to lay a reſtraint upon their Conſtitu<g ref="char:EOLhyphen"/>tion ſins; for by the Law is the knowledge of ſin.</p>
+               <pb facs="tcp:42901:9"/>
+               <p> Queſt. 54.<note place="margin">
+                     <hi>Ver.</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note> 
+                  <hi>Why do you think that by Rows are meant Laws?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe the Hebrew word <hi>Laws</hi> here uſed for <hi>Rows,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> comes of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which ſignifies an orderly courſe of things, and has ſuch near affinity with <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> that ſignifies a Law, that the Spirit of God puts one for an<g ref="char:EOLhyphen"/>other, as will appear by comparing 2 <hi>Sam</hi> 7.19. with 1 <hi>Chron.</hi> 17.17. And God does by the Bridle of his Law keep the Saints in an orderly courſe of duty.</p>
+               <p>Queſt. 55. <hi>Why do you leave out thoſe words,</hi> Jewels and Gold?</p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe they are not in the Hebrew, and therefore our Tranſlators have ſet them down in a different letter.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Verſe</hi> 11. We will make for thee borders of gold with ſtuds of ſilver.</head>
+               <p>Queſt. 56. <hi>Who is it that is here ſpeaking in the firſt perſon plural,</hi> We will?</p>
+               <p>
+                  <hi>Anſw.</hi> God the Father, Son and Holy Ghoſt, who were from all eternity contriving a way how to beautifie us with the priviledges of the Goſpel, expreſt by Gold.</p>
+               <p>Queſt. 57. <hi>What is meant by Borders?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Thoſe Rows of Gold mentioned in the antecedent Verſe, for the Hebrew word is the ſame in both Verſes; and I ſuppoſe the reaſon why we have it Tranſlated <hi>Borders,</hi> is, becauſe that as Borders do ſet bounds to places, ſo the Goſpel ſets bounds to the Corruptions of the Saints.</p>
+               <p>Queſt. 58. <hi>Why are thoſe Laws or Rows call'd Golden Rows in this Verſe, which wanted the adjunct in the former?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe that as the Ornaments of a Bridle do in beauty exceed the Bit; ſo Goſpel Priviledges and Goſpel worſhip do far in Glory exceed a legal Miniſtry.<note place="margin">Iſai. 60.17.</note>
+               </p>
+               <p>Queſt. 59. <hi>What is here meant by ſtuds of ſilver?</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> The Hebrew word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſignifies Specks, and is ſo uſed for <hi>Jacob</hi>'s ſpeckled Cattel; and it is uſed likewiſe in the ſingular <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> for one that is a Keeper or Maſter of Sheep, and may point at the Miniſters of the Goſpel; for as Rows of Gold and Silver do ſet off each other with glory and luſtre in the Bridles of Kings War-horſes, ſo the Golden Pri<g ref="char:EOLhyphen"/>viledges and Inſtitutions of the Goſpel, being held forth and
+<pb n="13" facs="tcp:42901:9"/>adminiſtred by Goſpel Miniſters,<note place="margin">
+                     <hi>Ver.</hi> 11.</note> who are Veſſels of Silver purified by the Fire of God's Spirit, do ſet off each other with glory and luſtre.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Verſe</hi> 12. While the king ſitteth at his Table, my ſpikenard ſendeth forth the ſmell thereof.</head>
+               <p>Queſt. 60. <hi>Who is here intended by this King?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Lord Jeſus Chriſt, the King of Kings.</p>
+               <p>Queſt. 61. <hi>What is meant by the King ſitting at his Table?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The gracious Preſence of Chriſt, with worthy Com<g ref="char:EOLhyphen"/>municants at the Lords Supper.</p>
+               <p>Queſt. 62. <hi>What is meant by the Spikenard of the Spouſe ſend<g ref="char:EOLhyphen"/>ing forth its ſmell?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The exerciſe of all the Gifts and Graces of the Spirit which is a bleſſed effect of the preſence of Chriſt with us in that Glorious Ordinance, and therefore the Hebrew begins the Verſe with <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which denotes <hi>ever;</hi> and a gracious Soul ever experiences the exerciſe of Faith, and Love, and Humili<g ref="char:EOLhyphen"/>ty, and Repentance, when it enjoys the Spiritual Preſence of Chriſt at his Supper: I find alſo in the words a cauſative Par<g ref="char:EOLhyphen"/>ticle <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> denoting thus much, That the Preſence of Chriſt with us at the Supper, is the cauſe of the exerciſe of our Graces.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Verſe</hi> 13. A bundle of myrrhe is my well beloved unto me; he ſhall lie all night betwixt my breaſts.</head>
+               <p>Queſt. 63. <hi>Why does the Spouſe compare Chriſt to a bundle of Myrrhe?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> To ſhew how ſweet and delightful he was unto her; for Myrrhe was one of thoſe fragrant Ingredients of which the Holy Oyl was made, which prefigured the Grace with which the humanity of Chriſt was abundantly repleniſhed.</p>
+               <p>Queſt 64. <hi>Why does the Spouſe compare Chriſt rather to Myrrhe than to any other of thoſe fragrant Ingredients of which the Holy Oyl was made?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe though Myrrhe is ſweet of ſmell, it is bit<g ref="char:EOLhyphen"/>ter of taſte; and this might be to ſignifie to us, that a Gra<g ref="char:EOLhyphen"/>cious
+<pb facs="tcp:42901:10"/>Soul is as willing to embrace Chriſt in his bittereſt Diſpenſations,<note place="margin">
+                     <hi>Ver.</hi> 13.</note> as in his moſt halcyon Providences. A gra<g ref="char:EOLhyphen"/>cious Soul prefers the bittereſt of Chriſt before all ſweets without him, and is willing to wear a Crown of Thorns for Chriſt, as well as a Crown of Glory with him.</p>
+               <p>Queſt. 65. <hi>VVhy does the Spouſe compare Chriſt to a Bag of Myrrhe?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> To ſignifie that thoſe who once have Chriſt, ſhall never loſe him; for as <hi>Job</hi> did conclude that not one of his ſins could be loſt that God had put up in his Bag, which is the very ſame word here uſed for Bundle <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; ſo a graci<g ref="char:EOLhyphen"/>ous Soul can never loſe Chriſt that has a ſaving intereſt in him.</p>
+               <p>Queſt. 66. <hi>VVhat is meant by the Breaſts of the Spouſe?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> If we take the Spouſe for the whole Church of Chriſt, then by her Breaſts we underſtand the Miniſters of the Goſpel, which are to yield the ſincere Milk of the Word for the nouriſhment of thoſe Babes of Chriſt, which he begets by his Word and Spirit; but if by the Spouſe we underſtand any particular True Believer, then it only ſhews that great delight they take in Chriſt,<note place="margin">Eph. 3.17.</note> and to have him dwell in their Hearts by Faith.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Verſe</hi> 14. My beloved is unto me, as a cluſter of camphire in the vineyards of Engedi.</head>
+               <p>As in the former Verſe the Spouſe had compared Chriſt to a Bag of Myrrhe, to ſhew how excellent he is in himſelf; ſo in this Verſe ſhe compares him to a Cluſter of Camphire, to ſhew how advantagious he is to her.</p>
+               <p>Queſt. 67. <hi>VVhat is here meant by Camphire?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The word ſeems to come of the Hebrew word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which denotes <hi>Atonement:</hi> But Famous <hi>Ainſworth</hi> well ob<g ref="char:EOLhyphen"/>ſerves, That Camphire is a Gum, and not the Fruit of a Tree brought forth by Cluſters, and therefore he Tranſlates it <hi>Cy<g ref="char:EOLhyphen"/>preſs;</hi> and, with ſubmiſſion to better Judgments, I ſuppoſe the Holy Ghoſt may intend thus much, That as we bring forth our ſins by Cluſters, ſo Chriſt is a Cluſter of Atone<g ref="char:EOLhyphen"/>ment for their Expiation: but I ſhall leave the certainty of
+<pb n="15" facs="tcp:42901:10" rendition="simple:additions"/>the Mind of God in this Verſe,<note place="margin">
+                     <hi>Ver.</hi> 14.</note> to ſuch as have their Five Ta<g ref="char:EOLhyphen"/>lents, and ſo paſs on to another Queſtion.</p>
+               <p>Queſt. 68. <hi>What is meant by the Vineyards of</hi> En-gedi?</p>
+               <p>
+                  <hi>Anſw. En-gedi</hi> is a very Fruitful Place in the Land of <hi>Cana<g ref="char:EOLhyphen"/>an,</hi> and within the Lot of <hi>Judah,</hi> which was likewiſe call'd <hi>Hazazantamer,</hi> 
+                  <note place="margin">Joſh. 15 52. 2 Chron. 20.2.</note> where God gave <hi>Jehoſaphat</hi> a glorious Vi<g ref="char:EOLhyphen"/>ctory over his Enemies, and may denote thus much, That Chriſt is not only Fruitful in bringing forth Cluſters of Atonement for Believers, but they ſhall alſo, through the Power of his might, overcome the Fleſh, the World, and the Devil, as <hi>Jehoſaphat</hi> did at <hi>En-gedi</hi> overcome <hi>Moab, Amon</hi> and <hi>Mount Seir:</hi> And as <hi>En-gedi</hi> is compounded of two He<g ref="char:EOLhyphen"/>brew words, and does denote a Fountain of young C<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ches ſo it may hold forth the great Extent and Latitude of <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>doning Atoneing Grace of Chriſt, and that it ſhou<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be circumſcribed within the bounds of the Jewiſh National Church, but ſhould be extended to Gentile Churches which are here, as in other places, called Vineyards, though they were then but Pagans; and therefore might well be called a Fountain of young Goats.</p>
+               <p>Queſt. 69. <hi>But is not</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>a word of the ſingular number? How then can that denote a Fountain of Kids?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> So all <hi>Pharaoh</hi>'s Horſes and Chariots are expreſſed by the ſingular number.<note place="margin">Ex. 15.1.</note>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Verſe</hi> 15. Behold thou <hi>art</hi> fair, my love, behold thou <hi>art</hi> fair, thy eyes are doves eyes.</head>
+               <p>As in the former Verſes the Spouſe had been commending of her Spiritual Husband Chriſt Jeſus, ſo in this Verſe Chriſt is commending that Beauty of his Spouſe which he had put upon her.</p>
+               <p>Queſt. 70. <hi>What is meant by the Doves Eyes of the Spouſe?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Miniſters of the Goſpel, which were before expreſſed by beautifying Specks of Silver, and by needful Breaſts for the refreſhment of the Saints by their heavenly Doctrin; ſo in this Verſe they are expreſſed by Eyes, be<g ref="char:EOLhyphen"/>cauſe they are to guid and lead the Spouſe in the Paths
+<pb n="16" facs="tcp:42901:11"/>of Godlineſs,<note place="margin">
+                     <hi>Ver.</hi> 15.</note> as the Eyes of our Bodies are to guid and lead us in our way for the prevention of dangers; for which cauſe the Prophets were formerly called Seers, 1 <hi>Sam.</hi> 9.9.</p>
+               <p>Queſt. 71. <hi>Why are Miniſters called Doves?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe of their Spiritual and Corporal Chaſtity, and alſo becauſe of their innocency and harmleſsneſs, and to ſhew how they are in this World expoſed to all kind of wrongs and injuries by the Vulters of this World: and likewiſe as a Dove is a clean Creature, ſo true Miniſters of Chriſt are ſuch as are clean in their Ordination, and clean in their Converſation, and clean in their Worſhip, and clean in their Doctrin and Diſcipline.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Verſe</hi> 16. Behold thou <hi>art</hi> fair my beloved, yea pleaſant; alſo our bed is green.</head>
+               <p>As in the former Verſe we have Chriſt commending the beauty of his Spouſe, ſo in this Verſe we have the Spouſe returning the praiſe thereof unto himſelf, who is fairer than the Sons of <hi>Adam,</hi> and from whom proceeds every good and perfect Gift,<note place="margin">Pſal. 45.2.</note> and in whom it pleaſed the Fa<g ref="char:EOLhyphen"/>ther that in him all fulneſs of beautifying Grace ſhould dwell.</p>
+               <p>Queſt. 72. <hi>What does the Spouſe mean by her green Bed?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Her fruitfulneſs in bringing forth Spiritual Chil<g ref="char:EOLhyphen"/>dren, to her Spiritual Husband, when her Miniſters are Spiritual Doves.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Verſe</hi> 17. The beams of our Houſes are cedar, and our rafters of fir.</head>
+               <p>As in the former Verſe the Spouſe had in a general way expreſſed her Spiritual fruitfulneſs, ſo in this Verſe ſhe is in a more particular manner demonſtrating the truth there<g ref="char:EOLhyphen"/>of, by the plurality of Churches that ſhould be under Goſpel-Adminiſtrations.</p>
+               <pb n="17" facs="tcp:42901:11"/>
+               <p> Queſt. 73. <hi>What is meant by the Beams of our Houſe?</hi> 
+                  <note place="margin">
+                     <hi>Ver.</hi> 17.</note>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Miniſters of the Goſpel; for as the true Mi<g ref="char:EOLhyphen"/>niſters of Chriſt are the Breaſts and Eyes of the Church, conſidered as the Spouſe of Chriſt; ſo if we conſider of the Church as ſhe is Gods Building, and his Spiritual Houſe, ſo they are the Beams thereof, as Chriſt is the Foundation, the Corner Stone, and the Top-Stone thereof.</p>
+               <p>Queſt. 74. <hi>What makes you take the Beams of this Houſe of God to be the Paſtors thereof?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe the Hebrew word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> comes of a Verb that ſignifies to Preach or Proclaim.</p>
+               <p>Queſt. 75. <hi>Why are thoſe Beams ſaid to be Cedar?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> As Cedars are tall, ſtrong, flouriſhing, ſound Trees, of a fragrant ſmell; ſo Paſtors of Churches are or ought to be flouriſhers in Grace, ſtrong in the Faith, ſound in their Converſations, and ſweet and fragrant in all their Civil Deportments before Men.</p>
+               <p>Queſt. 76. <hi>What is meant by Houſes?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Congregated Churches.</p>
+               <p>Queſt. 77. <hi>Why do you Tranſlate the word</hi> Houſes <hi>which we have Tranſlated</hi> Houſe?</p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe the Hebrew word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is of the plural number.</p>
+               <p>Queſt. 78. <hi>What is meant by thoſe Rafters?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Other Church-Officers which are conſiderably ma<g ref="char:EOLhyphen"/>terials in Gods Building; and the ground of my Judgment is, becauſe the word is uſed for Watering-Troughs or Gutters for Sheep to drink in;<note place="margin">Gen. 30.38.</note> and ſo godly Church-Officers ought in their reſpective Places to lay out themſelves by their Godly Exhortations, and Comforting Admonitions, to comfort Gods Spiritual Sheep.</p>
+               <p>Queſt. 79. <hi>What is meant by Fir-Trees?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Although I do not find the Hebrew word <hi>Broſhime</hi> in any other place but this; that is, there is none the ſame <hi>verbatim,</hi> yet I find <hi>Broſhime</hi> uſed for Fir-Trees, <hi>Pſal.</hi> 104.17. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> being turned to <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which is uſual with the Spirit of God in the Old Teſtament, and which, I ſuppoſe, was a ſtrong inducement to our Tranſlators to Tranſlate <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Fir-Trees.</p>
+               <pb facs="tcp:42901:12"/>
+               <p> Queſt. 80. <hi>Why are Church-Officers expreſſed by Fir-Trees?</hi> 
+                  <note place="margin">
+                     <hi>Ver.</hi> 17.</note>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Becauſe that as Fir-Trees are tall, ſtraight, flouriſh<g ref="char:EOLhyphen"/>ing Trees, of a ſweet and fragrant ſmell, ſo all Church-Officers, as well as Paſtors, ought to be Holy in their Lives, and flouriſhing in all the Gifts and Graces of the Spirit.</p>
+               <p>And thus I have, in the improvement of my one Talent, given that account of this Chapter, which I humbly judge to be the Mind of God therein; and if my Labours find ac<g ref="char:EOLhyphen"/>ceptance with the Saints, I will make a further progreſs into this Book.</p>
+               <trailer>
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>INIS.</hi>
+               </trailer>
+               <pb facs="tcp:42901:12"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
